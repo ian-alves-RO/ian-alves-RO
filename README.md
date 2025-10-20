@@ -1,6 +1,7 @@
-# 👋 Bem-vindo(a) ao meu perfil!!!  
+<!-- Banner Animado -->
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=👋+Bem-vindo(a)+ao+meu+perfil!;Sou+IAN+ALVES+RODRIGUES;Estudante+de+ADS+e+Entusiasta+da+Inteligência+Artificial!;Transformando+ideias+em+código+💻)
 
-👤 **IAN ALVES RODRIGUES**
+---
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💼 Atuando em **estágio de meio período** em **atividades de campo de TI**  
@@ -27,11 +28,17 @@
 
 ---
 
-> “Juntando a imaginação e criatividade com a programação para voar mais alto.”  
+> “Juntando a imaginação e criatividade com a programação para voar ainda mais alto.”  
 
 📍 [github.com/ian-alves-RO](https://github.com/ian-alves-RO)
 
 ---
 
+### 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ian-alves-RO&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-alves-RO&layout=compact&theme=tokyonight)
+
+---
+
+### 👀 Visitantes
+![Contador de visitas](https://komarev.com/ghpvc/?username=ian-alves-RO&color=blueviolet&style=for-the-badge)
