@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Bem-vindo(a) ao meu perfil!!!  
 
-<!--
-**ian-alves-RO/ian-alves-RO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤 **IAN ALVES RODRIGUES**
 
-Here are some ideas to get you started:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💼 Atuando em **estágio de meio período** em **atividades de campo de TI**  
+🤖 Entusiasta da **Inteligência Artificial** e do poder da **programação criativa**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+### 🚀 Atualmente estudando
+🔗 **Manipulação de APIs**  
+🧠 **Bancos de Dados**  
+💬 **Chats inteligentes** e **programas interativos com IA**
+
+---
+
+> “Juntando a imaginação e criatividade com a programação para voar mais alto.”  
+
+📍 [github.com/ian-alves-RO](https://github.com/ian-alves-RO)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ian-alves-RO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-alves-RO&layout=compact&theme=tokyonight)
