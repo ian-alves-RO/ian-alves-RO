@@ -16,13 +16,30 @@
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
+  🚀 Atualmente estudando
 
-### 🚀 Atualmente estudando
-🔗 **Manipulação de APIs**  
-🧠 **Bancos de Dados**  
-💬 **Chats inteligentes** e **programas interativos com IA**
+ Manipulação de APIs  
+ 
+ Bancos de Dados
 
-onde me encontrar
-
-📍 [github.com/ian-alves-RO](https://github.com/ian-alves-RO)
+ Chats inteligentes
+ 
 ---
+
+🌐 Onde me encontrar
+<p align="center">
+  <a href="https://github.com/ian-alves-RO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ian-alves-rodrigues-945759269/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ianzitos08/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+</p>
+
+### 👀 Visitantes
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ian-alves-RO&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
+</p>
