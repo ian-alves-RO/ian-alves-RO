@@ -22,19 +22,7 @@
 🧠 **Bancos de Dados**  
 💬 **Chats inteligentes** e **programas interativos com IA**
 
----
-
-> “Juntando a imaginação e criatividade com a programação para voar ainda mais alto.”  
+onde me encontrar
 
 📍 [github.com/ian-alves-RO](https://github.com/ian-alves-RO)
-
 ---
-
-### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ian-alves-RO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian-alves-RO&layout=compact&theme=tokyonight)
-
----
-
-### 👀 Visitantes
-![Contador de visitas](https://komarev.com/ghpvc/?username=ian-alves-RO&color=blueviolet&style=for-the-badge)
