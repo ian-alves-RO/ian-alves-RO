@@ -1,5 +1,5 @@
 <!-- Banner Animado -->
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=👋+Bem-vindo(a)+ao+meu+perfil!;Sou+IAN+ALVES+RODRIGUES;Estudante+de+ADS+e+Entusiasta+da+Inteligência+Artificial!;Transformando+ideias+em+código+💻)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=👋+Bem-vindo(a)+ao+meu+perfil!;)
 
 ---
 
