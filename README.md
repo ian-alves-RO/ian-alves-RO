@@ -39,7 +39,3 @@
 </a>
 </p>
 
-### 👀 Visitantes
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ian-alves-RO&color=blueviolet&style=for-the-badge" alt="Contador de visitas"/>
-</p>
